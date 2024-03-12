@@ -1,6 +1,6 @@
 ---
 title: "Time Series - Final Project"
-author: "by Krystian Bułat, Agnieszka Tracz, Karolina Grzech and Zuzanna Maciszewska"
+author: "by KB, AT, KG and ZM"
 date: ' '
 ---
 
