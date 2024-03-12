@@ -1,0 +1,50 @@
+---
+title: "Time Series - Final Project"
+author: "by ... (your names)"
+date: " "
+
+---
+
+**Remove these hints** :-)    
+
+0. It may be necessary to install the knitr package.
+1. Choose from the menu *Help->Markdown Quick Reference* to get information on creating an html/pdf report in R-Studio.     
+2. The report should include *R code* and comments on the results.   
+3. Click the *Knit* button to generate your html/pdf report.
+
+----
+
+**You have two tasks below:**
+
+---
+
+# TASK 1:
+
+Consider the monthly *sales of products* (see file dane_KKAZ.csv at UPeL)).   
+
+1. Make *sales of products* forecasts for each month of the year 2024.
+
+---
+
+## SOLUTION of TASK 1
+
+Place for your solution :-) :-) :-) 
+
+---
+
+# TASK 2:
+
+Consider the  [Krystian's time series from Lab 1 task 4.2](https://upel.agh.edu.pl/mod/forum/discuss.php?d=8847) ( Netflix Stock Price)
+
+1. Make all necessary transformations to get a stationary time series (noise).   
+2. If possible, choose the ARMA (p, q) model for stationary noise.
+
+---
+
+## SOLUTION of TASK 2
+
+Place for your solution :-) :-) :-) 
+
+---
+
+GOOD LUCK !!!
